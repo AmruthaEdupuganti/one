@@ -3,7 +3,7 @@
 	<title>MyJavaAPP</title>
 </head>
 <body>
-<h1>hi chintu</h1>
+<h1>hi</h1>
 	
 	
 	
